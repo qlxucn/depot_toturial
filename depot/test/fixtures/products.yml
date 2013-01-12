@@ -1,13 +1,19 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  title: MyString
-  description: MyText
-  image_url: MyString
+  title: t1
+  description: This is test description.
+  image_url: 11.png
   price: 9.99
 
 two:
-  title: MyString
-  description: MyText
-  image_url: MyString
+  title: t2
+  description: This is test description.
+  image_url: img.png
   price: 9.99
+
+ruby:
+  title: t3
+  description: This is test description.
+  image_url: 33.png
+  price: 1.1

@@ -27,7 +27,7 @@ test:
   #timeout: 5000
   adapter: mysql2
   encoding: utf8
-  database: depot
+  database: depot_test
   pool: 5
   username: qlxucn
   password: '111111'
